@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d85aba621d1cca15",
+        "id": "3e35ae1e3749a58d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "health/Dry eye.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "health/Dry eye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "health/Dry eye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "health/Dry eye.md"
+              }
             }
           },
           {
@@ -122,14 +130,16 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d85aba621d1cca15",
+  "active": "3e35ae1e3749a58d",
   "lastOpenFiles": [
+    "health/Digital eye strain (DES).md",
+    "health/Dry eye.md",
     "learning-rust/Why Rust?.md",
     "README.md"
   ]
