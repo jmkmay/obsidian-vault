@@ -1,3 +1,5 @@
+# Data types
+
 [[Rust]] is a [[statically typed]] language. The compiler typically does a good job at inferring types where applicable, however the source of any ambiguity must be corrected before the program will compile.
 
 ## Scalar types

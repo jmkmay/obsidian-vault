@@ -1,3 +1,5 @@
+# Variables and mutability
+
 [[Variables]] are by default immutable in rust. Once a value is bound to a name, you can't change that value.
 
 For example: 

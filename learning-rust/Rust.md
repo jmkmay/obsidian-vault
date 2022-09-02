@@ -1,3 +1,5 @@
+# Rust
+
 [[Rust]] is a language developed by [[Mozilla]] to make managing concurrency and memory safety easier and more robust in a performant system level language.
 
 It uses the concept of [[borrowing]] to facilitate memory safety, which essentially eliminates vectors for bugs such as [[dangling pointers]] and [[overflow]] vulnerabilities.
