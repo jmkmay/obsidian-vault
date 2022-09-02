@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3e35ae1e3749a58d",
+        "id": "63e8836559ed0679",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "health/Dry eye.md",
+            "file": "learning-rust/Data types.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 104.00329208374023
   },
   "right": {
     "id": "a38d5198ed0c01c2",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "health/Dry eye.md",
+                "file": "learning-rust/Data types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "health/Dry eye.md",
+                "file": "learning-rust/Data types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "health/Dry eye.md"
+                "file": "learning-rust/Data types.md"
               }
             }
           },
@@ -130,17 +130,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 395.53704833984375
   },
-  "active": "3e35ae1e3749a58d",
+  "active": "63e8836559ed0679",
   "lastOpenFiles": [
-    "health/Digital eye strain (DES).md",
+    "learning-rust/Rust.md",
+    "learning-rust/Data types.md",
+    "learning-rust/Variables and Mutability.md",
+    "learning-rust/[Unicode Scalar Value.md",
+    "learning-rust/Handling integer overflow.md",
+    "programming-concepts/Two's complement.md",
+    "learning-rust/Constants.md",
     "health/Dry eye.md",
-    "learning-rust/Why Rust?.md",
+    "health/Digital eye strain (DES).md",
     "README.md"
   ]
 }
