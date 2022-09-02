@@ -7,8 +7,12 @@
         "id": "63e8836559ed0679",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "learning-rust/Ownership in Rust.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning-rust/Ownership in Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "learning-rust/Ownership in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learning-rust/Ownership in Rust.md"
+              }
             }
           },
           {
@@ -131,6 +139,7 @@
   },
   "active": "63e8836559ed0679",
   "lastOpenFiles": [
+    "learning-rust/Variables and mutability.md",
     "learning-rust/Ownership in Rust.md",
     "learning-rust/Control flow in Rust.md",
     "learning-rust/Comments in Rust.md",
@@ -139,7 +148,6 @@
     "learning-rust/Data types.md",
     "learning-rust/Handling integer overflow.md",
     "learning-rust/Rust.md",
-    "learning-rust/Variables and mutability.md",
     "learning-rust/[Unicode Scalar Value.md"
   ]
 }
