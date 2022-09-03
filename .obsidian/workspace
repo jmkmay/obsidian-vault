@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "63e8836559ed0679",
+        "id": "6a5954b43e11e884",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -135,19 +135,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.83334350585938
+    "width": 224.83334350585938,
+    "collapsed": true
   },
-  "active": "63e8836559ed0679",
+  "active": "6a5954b43e11e884",
   "lastOpenFiles": [
-    "learning-rust/Variables and mutability.md",
+    "learning-rust/Resource Acquisition Is Initialization (RAII).md",
     "learning-rust/Ownership in Rust.md",
+    "learning-rust/Stack and heap.md",
+    "learning-rust/Untitled.md",
+    "learning-rust/Variables and mutability.md",
     "learning-rust/Control flow in Rust.md",
     "learning-rust/Comments in Rust.md",
     "learning-rust/Functions in Rust.md",
     "learning-rust/Constants.md",
-    "learning-rust/Data types.md",
-    "learning-rust/Handling integer overflow.md",
-    "learning-rust/Rust.md",
-    "learning-rust/[Unicode Scalar Value.md"
+    "learning-rust/Data types.md"
   ]
 }
