@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6a5954b43e11e884",
+        "id": "7bed2148e8cb03b6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learning-rust/Ownership in Rust.md",
+            "file": "porcupine/Keys.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 104.00329208374023,
-    "collapsed": true
+    "width": 141.0022850036621
   },
   "right": {
     "id": "a38d5198ed0c01c2",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-rust/Ownership in Rust.md",
+                "file": "porcupine/Keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-rust/Ownership in Rust.md",
+                "file": "porcupine/Keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-rust/Ownership in Rust.md"
+                "file": "porcupine/Keys.md"
               }
             }
           },
@@ -138,17 +137,17 @@
     "width": 224.83334350585938,
     "collapsed": true
   },
-  "active": "6a5954b43e11e884",
+  "active": "7bed2148e8cb03b6",
   "lastOpenFiles": [
-    "learning-rust/Resource Acquisition Is Initialization (RAII).md",
-    "learning-rust/Ownership in Rust.md",
-    "learning-rust/Stack and heap.md",
+    "porcupine/Data ingress.md",
+    "porcupine/The Vault.md",
+    "porcupine/The Goal.md",
     "learning-rust/Untitled.md",
+    "learning-rust/Ownership in Rust.md",
+    "learning-rust/Resource Acquisition Is Initialization (RAII).md",
+    "learning-rust/Stack and heap.md",
     "learning-rust/Variables and mutability.md",
     "learning-rust/Control flow in Rust.md",
-    "learning-rust/Comments in Rust.md",
-    "learning-rust/Functions in Rust.md",
-    "learning-rust/Constants.md",
-    "learning-rust/Data types.md"
+    "learning-rust/Comments in Rust.md"
   ]
 }
