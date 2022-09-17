@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "porcupine/Relationships.md",
+            "file": "learning-rust/Database patterns in Rust.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "porcupine/Relationships.md",
+                "file": "learning-rust/Database patterns in Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "porcupine/Relationships.md",
+                "file": "learning-rust/Database patterns in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "porcupine/Relationships.md"
+                "file": "learning-rust/Database patterns in Rust.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "06c78b257de8a77c",
   "lastOpenFiles": [
-    "porcupine/Entities.md",
+    "porcupine/Untitled.md",
     "porcupine/Relationships.md",
+    "porcupine/Entities.md",
     "porcupine/Data ingress.md",
     "learning-rust/Variables and mutability.md",
     "learning-rust/Stack and heap.md",
     "learning-rust/Rust.md",
     "learning-rust/Resource Acquisition Is Initialization (RAII).md",
     "learning-rust/Ownership in Rust.md",
-    "learning-rust/Handling integer overflow.md",
-    "learning-rust/Functions in Rust.md"
+    "learning-rust/Handling integer overflow.md"
   ]
 }
